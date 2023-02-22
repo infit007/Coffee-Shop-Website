@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Coffee Shop Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayesh Suntha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tw-elements": "^1.0.0-alpha13"
+  }
+}
